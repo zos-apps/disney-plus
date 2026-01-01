@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 
 const brands = [
   { name: 'Disney', icon: '🏰', color: 'from-blue-900 to-blue-600' },
